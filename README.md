@@ -11,3 +11,11 @@ Devloping a BDDframework for ecommerce sceanrio
 Here we are using Cucumber pretty report screenhot will be take at end of each scenario
 we can the reports under 'test2/target/HTMLREPORTS.html'
 
+
+##Things can be enhanced further in this 
+
+Adding retry for failed scearios
+Extedning to webbase for the driver initation 
+Configuration file  update and swtiching between env 
+
+
